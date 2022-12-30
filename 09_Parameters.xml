@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameters Suite">
+
+    <test name="Parameters Tests">
+
+        <classes>
+
+            <class name="Clarusway.tests.Day02_C02_Parameters">
+                <methods>
+                    <parameter name="isim" value="Esma"></parameter>
+                    <include name="test01"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
