@@ -28,8 +28,5 @@ public class Day06_C02_JSUtils extends BaseCrossBrowserTest {
         Thread.sleep(4000);
 
 
-
-
-
     }
 }
