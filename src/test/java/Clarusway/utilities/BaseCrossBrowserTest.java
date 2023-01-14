@@ -35,6 +35,7 @@ public class BaseCrossBrowserTest {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         actions = new Actions(driver);
+        //ek fjnggfk
 
 
     }
